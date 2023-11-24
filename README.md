@@ -1,4 +1,4 @@
-# Penguins web app deployed on Heroku
+# Penguins web app deployed on Streamlit
 
 Check out the YouTube video showing the development of this web app at https://youtu.be/zK4Ch6e1zq8
 
